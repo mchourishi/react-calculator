@@ -24,4 +24,4 @@ $ npm start # or yarn start
 1. npm start will load the Calculator App in your browser.
 2. Simply try to perform operations.
 
-<img src="https://github.com/mchourishi/react-calculator/blob/master/public/screenshots/calculator.png" />
+<img src="https://github.com/mchourishi/react-calculator/blob/master/public/images/calculator.png" />
